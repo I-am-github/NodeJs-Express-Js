@@ -2,7 +2,7 @@
 
 A Basic Node.js/Express REST API implementation example.
 
-Full Tutorial at https://developerhowto.com/2018/12/29/build-a-rest-api-with-node-js-and-express-js/
+Full Tutorial at https://developerhowto.com/2022/06/05/build-a-rest-api-with-node-js-and-express-js/
 
 # Prerequisites
 
